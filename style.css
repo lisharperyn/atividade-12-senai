@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+}
+
+#div1 {
+  width: 250px;
+  height: 300px;
+  background-color: blue;
+  margin: 5%;
+  padding: 20px;
+  border-width: 10px;
+  border-style: solid;
+  border-top-color: yellow;
+  border-bottom-color: yellow;
+  border-left-color: green;
+  border-right-color: green;
+}
+
+#div2 {
+  width: 250px;
+  height: 300px;
+  background-color: red;
+  margin: 5%;
+  padding: 20px;
+  border-width: 10px;
+  border-style: solid;
+  border-top-color: yellow;
+  border-bottom-color: yellow;
+  border-left-color: green;
+  border-right-color: green;
+}
+
+.texto {
+  color: white;
+}
